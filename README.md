@@ -14,7 +14,7 @@ Install SimpleOS1.0.exe from release tab and you are good to go!
 ## How to use
 
 
-Open SimpleOS it will show you a list of games installed. You can launch a game by running
+Open SimpleOS it will show you a list of games/apps installed. You can launch a game by running
 
 ```command
 run (game/app)
