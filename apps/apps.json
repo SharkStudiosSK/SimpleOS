@@ -2,7 +2,7 @@
     "apps": [
       {
         "file": "ConsoleSnakeGame.jar",
-        "name": "Snake Game"
+        "name": "Snake"
       }
       
     ]

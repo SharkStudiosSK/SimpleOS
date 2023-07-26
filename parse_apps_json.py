@@ -7,4 +7,5 @@ def read_app_info_from_json(json_file):
 
 if __name__ == "__main__":
     apps_info = read_app_info_from_json("apps/apps.json")
-    print(json.dumps(apps_info))  # Output JSON data to be read by the Java code
+    for app in apps_info:
+        print(app['file'] + "," + app['name'])
